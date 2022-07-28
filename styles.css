@@ -1,0 +1,265 @@
+#menu-posts-business_list_items .wp-menu-image.dashicons-before img {
+    width: 16px;
+}
+
+.catlists {
+    width: 44.5%;
+    float: left;
+}
+
+.listiong_creator_container {
+    margin: 5%;
+}
+
+.catlistsmain input {
+    margin-right: 9px;
+}
+
+#stateselection {
+    width: 300px;
+    text-align: center;
+}
+
+.tnj_buttons {
+    border: none;
+    background: green;
+    color: #fff;
+    padding: 7px 45px;
+    text-transform: uppercase;
+    margin-top: 18px;
+}
+
+.catlistsmain {
+    float: left;
+    width: 18.3%;
+}
+
+.submitbuttontnj {
+    float: left;
+    width: 100%;
+}
+
+.widget {
+    float: left;
+    width: 100%;
+}
+
+.cateditbtn {
+    text-align: center;
+}
+
+.cateditbtn a {
+    background: green;
+    color: #fff;
+    padding: 5px 15px;
+}
+
+.cateditbtn a:hover {
+    color: #fff;
+}
+
+#categoryformid {
+    width: 85%;
+    border: 1px solid #ccc;
+    padding: 16px 28px 28px 28px;
+}
+
+.spantitiles {
+    font-size: 15px;
+    margin: 11px 0;
+    display: inline-block;
+}
+
+.form-control.categoryformmain {
+    width: 98%;
+    height: 35px;
+}
+
+#categoryformid h2 {
+    font-size: 35px;
+    margin: 18px 0 26px 0;
+    line-height: 40px;
+}
+
+.updatelifemain {
+    margin-top: 21px;
+    background: green;
+    border: none;
+    color: #fff;
+    padding: 7px 40px;
+    font-size: 18px;
+}
+
+.catlistscate {
+    width: 31.5%;
+    float: left;
+}
+
+.mainlistofcat {
+    margin-top: 36px;
+    float: left;
+    width: 100%;
+}
+
+#stateselection {
+
+    margin: 0 0 18px 0;
+
+}
+
+.formaddcatlist .form-control {
+    width: 100%;
+    margin: 15px 0 0 0;
+    height: 39px;
+    width: 90%;
+    display: block;
+}
+
+.formaddcatlist label {
+    font-size: 20px;
+    margin: 35px 0 0 0;
+    display: block;
+}
+
+
+.formaddcatlist .updatelifemain {
+    margin-top: 5px;
+}
+
+#categoryformid {
+    width: 90%;
+}
+
+.errormessage {
+    position: absolute;
+    color: red;
+    top: 5%;
+    left: 5%;
+    font-size: 16px;
+}
+
+.success-message {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    color: #008000;
+    font-size: 18px;
+}
+
+.linktolive {
+    font-size: 24px !important;
+    margin: 0 0 12px 0 !important;
+}
+
+.categorymainlive {
+    margin: 16px 0 12px 0 !important;
+    display: block;
+    font-size: 16px;
+}
+
+.updatelifemain.cataddbuttons:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.bycategorymain,
+.bylistingmain {
+    margin-top: 9px;
+    border: 1px solid #ccc;
+    width: 86%;
+    padding: 18px;
+}
+
+.bycategorymain label {
+    margin: 0 0 16px 0;
+    font-size: 16px;
+}
+
+.bycategorymain label {
+    margin: 0 0 16px 0;
+    font-size: 16px;
+    display: inline-block;
+    width: 20%;
+}
+
+.bylistingmain label {
+    margin: 0 0 16px 0;
+    font-size: 16px;
+    display: inline-block;
+    width: 32.9%;
+}
+
+.locadergifparcelly {
+    width: 28px;
+    top: 6px;
+    position: relative;
+}
+
+.successmessagetmj {
+    font-size: 16px;
+    margin-bottom: 18px;
+    color: green;
+    text-transform: capitalize;
+}
+
+.cat_select_box {
+    margin-bottom: 20px;
+}
+
+.imageuploadsharp {
+    width: 233px;
+    margin-top: 21px;
+    border: 4px dotted green;
+    height: 183px;
+}
+
+.listiong_creator_containerfff {
+    margin-top: 41px;
+}
+
+.cateditbtn a {
+    display: block;
+    font-size: 12px;
+    width: 151px;
+}
+/*15-3-19*/
+.listiong_creator_container {background-color: #fff;}
+
+* {	box-sizing: border-box;}
+
+#wpbody-content .listiong_creator_container {
+	background-color: #fff;
+	display: table;
+	padding: 45px;
+    width:90%;   
+	max-width: 100%;
+	/*white-space: nowrap;*/
+    margin-top: 20px;
+}
+#categoryformid {
+	width: 100%;
+}
+.listiong_creator_container .dataTables_wrapper.form-inline.dt-bootstrap {
+	border: 1px solid #ddd;
+	padding: 35px;
+}
+.listiong_creator_containerfff .dataTables_wrapper.form-inline.dt-bootstrap {
+	border: 0;
+	padding: 0;
+}
+.custom-head {
+	font-size: 50px;
+	text-transform: capitalize;
+	padding-left: 87px;
+    padding-top:20px;
+}
+.textfullwidth {
+    width: 100%;
+    white-space: inherit;
+    height: 140px;
+}
+
+b {
+    float: left;
+    width: 100%;
+}
